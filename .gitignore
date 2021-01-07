@@ -11,6 +11,7 @@ bl-plugins/quill
 bl-plugins/yandex-metrica/
 bl-plugins/domain-migrator/
 bl-plugins/tail-writer/
+bl-plugins/items-per-page
 bl-kernel/bludit.pro.php
 bl-kernel/admin/themes/gris
 bl-themes/docs
@@ -28,3 +29,4 @@ bl-themes/micro
 bl-themes/tagg
 bl-themes/future-imperfect
 bl-themes/social-network
+bl-themes/onii-chan-no-ecchi
