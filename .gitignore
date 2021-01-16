@@ -13,6 +13,7 @@ bl-plugins/domain-migrator/
 bl-plugins/tail-writer/
 bl-plugins/items-per-page
 bl-plugins/snicker
+bl-plugins/reactions
 bl-plugins/profile
 bl-kernel/bludit.pro.php
 bl-kernel/admin/themes/gris
